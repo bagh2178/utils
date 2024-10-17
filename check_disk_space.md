@@ -6,7 +6,7 @@ vim .bashrc
 sh ~/check_disk_space.sh
 
 check_disk_space.sh:
-
+``
 #!/bin/bash
 
 drives=(/dev/sda1 /dev/nvme0n1 /dev/nvme1n1)
@@ -27,3 +27,4 @@ for drive in "${drives[@]}"; do
         fi
     fi
 done
+``
