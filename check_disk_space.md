@@ -1,9 +1,10 @@
-cd ~
-vim .bashrc
-
+```
+# cd ~
+# vim .bashrc
+```
 .bashrc:
 
-sh ~/check_disk_space.sh
+```sh ~/check_disk_space.sh```
 
 check_disk_space.sh:
 ```
@@ -27,3 +28,4 @@ for drive in "${drives[@]}"; do
         fi
     fi
 done
+```
