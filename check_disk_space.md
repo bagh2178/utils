@@ -4,7 +4,9 @@
 ```
 .bashrc:
 
-``sh ~/check_disk_space.sh``
+```
+sh ~/check_disk_space.sh
+```
 
 check_disk_space.sh:
 ```
