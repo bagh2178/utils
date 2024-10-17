@@ -1,6 +1,6 @@
 ```
-# cd ~
-# vim .bashrc
+$ cd ~
+$ vim .bashrc
 ```
 .bashrc:
 
